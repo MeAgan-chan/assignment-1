@@ -363,6 +363,14 @@ body{
     background-color: #edddd4;
     color: #772E25;
 }
+@media screen and (min-width: 576px){
+    body{
+        height: 100%;
+    }
+    #msg{
+        height: 100%;
+    }
+}
 
 #desc{
     font-family:'Comfortaa', cursive;
@@ -376,7 +384,8 @@ body{
 }
 
 header{
-    color: #c44536;
+    background-color: #c44536;
+    color: #edddd4;
     font-family: 'Oswald', sans-serif;
     font-size: 32px;
 }
@@ -432,7 +441,7 @@ html, body{
 .flip-box {
     background-color: #edddd4;
     width: 700px;
-    height: 650px;}
+    height: 770px;}
 .flip-box-inner {
     position: relative;
     width: 100%;
@@ -474,18 +483,20 @@ html, body{
 }
 img{
     border: 10px solid #c44536;
-
 }
 .buttonNav{
     background-color: #8bcbd0;
     border: none;
     color: #c44536;
     padding: 5px 10px;
-    text-decoration: none;
-    display: inline-block;
     font-size: 28px;
     font-family: 'Comfortaa', cursive;
     transition-duration: 0.3s;
+}
+.buttonNav a{
+    text-decoration: none;
+    display: inline-block;
+    color: #772E25;
 }
 .buttonNav:hover{
     background-color: #c44536;

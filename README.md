@@ -42,11 +42,25 @@ The Contact Me page is the area where people can send me a message, be it just a
 
 For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
 
-1. Contact form:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
+1. About Me page:
+    1. Go to any page other than the "About Me" page
+    2. Press the "About Me" button
+    3. Observe if the "About Me" page loads
+2. Portfolio page:
+    1. Go to any page other than the "Portfolio" page
+    2. Press the "Portfolio" button
+    3. Observe if the "Portfolio" page loads
+3. Resume page:
+    1. Go to any page other than the "Resume" page
+    2. Press the "Resume" button
+    3. Observe if the "Resume" page loads
+4. Contact Me page:
+    1. Go to any page other than the "Contact Me" page
+    2. Press the "Contact Me" button
+    3. Observe if the "Contact Me" page loads
+5. Works and Projects:
+    1. Hover over the images below the "Works" and "Projects" headers
+    2. Observe if the image fades to show the image descriptions
 
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
@@ -55,9 +69,8 @@ You should also mention in this section any interesting bugs or problems you dis
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 ## Credits
-
-### Content
-
+-[w3schools](https://www.w3schools.com/)
+    -The project has used w3schools as a reference for some of its displays
 ### Media
 
 ### Acknowledgements
