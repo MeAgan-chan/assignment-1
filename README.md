@@ -7,22 +7,24 @@ One or two paragraphs providing an overview of your project. Tell us about your 
 
 Essentially, this part is your sales pitch.
 Project Name: Personal Website
+This project is about making a personal website about myself, so that future employers can get a better understanding of me and my skillsets. 
+
 
 
 ## Design Process
 
-Provide us insights about your design process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
-
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. 
-These files should themselves either be included as a pdf file in the project itself (in an separate directory)
-Include the Adobe XD wireframe as a folder. You can include the XD share url. 
+This website is for future employers and companies which would either want me to join them or for them to outsource me for skill-specific projects.
+-As a future employee, I want to display my skills to my future employers, so that they may know what to expect from me working for them.
+-And as a potential partner, I want to know what this person(me) specialises in, so that I know exactly what job to give this person(me) when the project is being put into action.
+I make this easier for them by making the website clear and concise. They can easily navigate to my resume where they will know my educational experience, and my portfolio where they will get to see previews of my works and projects I have done. From these they will know what to expect from me if I work for them. The colour scheme is aesthetically-pleasing and comfortable on the eyes, while have proper highlights and contrasts to furthur improve the clarity of the website.
+The portfolio gives accurate description of mediums I use in my works and projects, as well as descriptions if necessary.
 
 ## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+The About Me page is simply a self-introduction of me and my intentions in life, aka to expand my horizons in art and others.
+The Resume page shows the schools I am affiliated to, as well as my certificates and achievements.
+The Portfolio page shows all the (better) works and projects I have done.
+The Contact Me page is the area where people can send me a message, be it just a simple comment or a invitation to work with a company/group.
 
 ### Existing Features
 - Feature 1 - allows users X to achieve Y, by having them fill out Z
@@ -34,8 +36,9 @@ In addition, you may also use this section to discuss plans for additional featu
 - Another feature idea
 
 ## Technologies Used
+-[w3schools](https://www.w3schools.com/)
+    -The project has used w3schools as a reference for some of its displays
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
 - [JQuery](https://jquery.com)
     - The project uses **JQuery** to simplify DOM manipulation.
@@ -60,11 +63,7 @@ If this section grows too long, you may want to split it off into a separate fil
 ## Credits
 
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
 
 ### Media
-- The photos used in this site were obtained from ...
 
 ### Acknowledgements
-
-- I received inspiration for this project from X
