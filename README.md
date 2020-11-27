@@ -17,6 +17,8 @@ This website is for future employers and companies which would either want me to
 I make this easier for them by making the website clear and concise. They can easily navigate to my resume where they will know my educational experience, and my portfolio where they will get to see previews of my works and projects I have done. From these they will know what to expect from me if I work for them. The colour scheme is aesthetically-pleasing and comfortable on the eyes, while have proper highlights and contrasts to furthur improve the clarity of the website.
 The portfolio gives accurate description of mediums I use in my works and projects, as well as descriptions if necessary.
 
+phone wireframe XD: https://xd.adobe.com/view/78a3bf28-6b37-433d-9486-9c99a1bd2261-2df0/
+website wireframe XD: https://xd.adobe.com/view/3329447e-2620-447a-bb87-4c8bca860a5e-667a/
 ## Features
 
 The About Me page is simply a self-introduction of me and my intentions in life, aka to expand my horizons in art and others.
