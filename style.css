@@ -13,8 +13,13 @@ body{
 #desc{
     font-family:'Comfortaa', cursive;
     color: #772E25; 
+    width: 800px;
 }
-
+#title2{
+    font-family: 'Oswald', sans-serif;
+    color: #c44536;
+    font-size: 20px;
+}
 
 header{
     color: #c44536;
@@ -103,8 +108,19 @@ nav{
 }
 .flip-box-back {
     background-color:#197278;
-    color: white;
-    
+    color: #edddd4;
+    font-size: 20px;
     transform: rotateY(180deg);
+}
+.button {
+    background-color: #8bcbd0;
+    border: none;
+    color: #283d3b;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Oswald', sans-serif;
 }
 

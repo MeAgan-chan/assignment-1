@@ -6,6 +6,8 @@ Readme template for interactive development module
 One or two paragraphs providing an overview of your project. Tell us about your project.
 
 Essentially, this part is your sales pitch.
+Project Name: Personal Website
+
 
 ## Design Process
 
