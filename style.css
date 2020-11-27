@@ -353,6 +353,20 @@
   *End of normalise css
   */
 
+@media screen and (min-width: 576px){
+    body{
+        height: 100%;
+    }
+    #msg{
+        height: 100%;
+    }
+    .buttonNav{
+        text-align: center;
+    }
+    #desc{
+        max-width: 800px;
+    }
+}
 
 
 
@@ -363,19 +377,12 @@ body{
     background-color: #edddd4;
     color: #772E25;
 }
-@media screen and (min-width: 576px){
-    body{
-        height: 100%;
-    }
-    #msg{
-        height: 100%;
-    }
-}
+
 
 #desc{
     font-family:'Comfortaa', cursive;
     color: #772E25; 
-    width: 800px;
+    max-width: 800px;
 }
 #title2{
     font-family: 'Oswald', sans-serif;
@@ -430,8 +437,8 @@ html, body{
 
 #msg{
     background-color: #edddd4;
-    width: 500px;
-    height: 200px;
+    width: 800px;
+    height: 300px;
     border: 15px solid  #283D3B;
     padding: 50px;
     font-family: 'Comfortaa', cursive;
