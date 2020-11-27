@@ -9,8 +9,6 @@ Essentially, this part is your sales pitch.
 Project Name: Personal Website
 This project is about making a personal website about myself, so that future employers can get a better understanding of me and my skillsets. 
 
-
-
 ## Design Process
 
 This website is for future employers and companies which would either want me to join them or for them to outsource me for skill-specific projects.
@@ -26,11 +24,12 @@ The Resume page shows the schools I am affiliated to, as well as my certificates
 The Portfolio page shows all the (better) works and projects I have done.
 The Contact Me page is the area where people can send me a message, be it just a simple comment or a invitation to work with a company/group.
 
-### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+### Existing Features
+-The About Me page is simply a self-introduction of me and my intentions in life, aka to expand my horizons in art and others.
+-The Resume page shows the schools I am affiliated to, as well as my certificates and achievements.
+-The Portfolio page shows all the (better) works and projects I have done.
+-The Contact Me page is the area where people can send me a message, be it just a simple comment or a invitation to work with a company/group.
 
 ### Features Left to Implement
 - Another feature idea
@@ -38,11 +37,6 @@ In addition, you may also use this section to discuss plans for additional featu
 ## Technologies Used
 -[w3schools](https://www.w3schools.com/)
     -The project has used w3schools as a reference for some of its displays
-
-
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
-
 
 ## Testing
 
